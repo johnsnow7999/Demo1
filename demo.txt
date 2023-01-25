@@ -1,0 +1,5 @@
+Tcat > demo1.txt
+
+cd Desktop
+
+
